@@ -1,5 +1,5 @@
-## React Native Simple Todo App (https://github.com/SastraNababan/RN-SimpleTodo).
-
+## React Native Simple Todo App  
+<p></p>
 
 <p>
   <img src="https://i.imgur.com/cyni45O.png"> 
